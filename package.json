@@ -1,0 +1,19 @@
+{
+  "name": "atom-gooey-syntax",
+  "theme": "syntax",
+  "version": "0.1.0",
+  "description": "A lovely, gooey, theme for Atom",
+  "keywords": [
+    "syntax",
+    "theme",
+    "gooey",
+    "simey",
+    "simeydotme",
+    "simon goellner"
+  ],
+  "repository": "https://github.com/simeydotme/gooey-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
