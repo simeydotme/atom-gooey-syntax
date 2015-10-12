@@ -1,8 +1,11 @@
 # gooey-syntax theme
 
+### premise
 A greeny-blue theme with purple/red hints.
-Inspired after seeing [@mrmrs_](https://twitter.com/mrmrs_)'s terminal theme while he was giving a talk on CSS.
+Inspired after seeing [@mrmrs_](https://twitter.com/mrmrs_)'s terminal theme while he was giving a talk on CSS. It was delicious!
 
-Enjoy.
+### conclusion
+I hope you loves it! 🌟
 
-![A screenshot of your theme](https://f.cloud.github.com/assets/69169/2289498/4c3cb0ec-a009-11e3-8dbd-077ee11741e5.gif)
+### example 
+![Example CSS/LESS/SCSS styling](https://raw.githubusercontent.com/simeydotme/atom-gooey-syntax/master/screenshot.png)
