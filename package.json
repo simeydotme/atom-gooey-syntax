@@ -1,7 +1,7 @@
 {
   "name": "atom-gooey-syntax",
   "theme": "syntax",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "A lovely, gooey, theme for Atom",
   "keywords": [
     "syntax",
